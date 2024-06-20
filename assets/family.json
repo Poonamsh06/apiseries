@@ -1,0 +1,30 @@
+[
+    {
+    "name": "Radha",
+    "relation":"sister",
+    "age":23,
+    "phone": 7740026591,
+    "education":"B.ed passout"
+},
+{
+    "name": "Kuldeep",
+    "relation":"brother",
+    "age":19,
+    "phone": 9877761762,
+    "education":"B.A pusuing" 
+},
+{
+    "name": "Desraj",
+    "relation":"father",
+    "age":50,
+    "phone": 9855116621,
+    "education":"10th passout"
+},
+{
+    "name": "Vanita",
+    "relation":"Mother",
+    "age":45,
+    "phone": 6284643920,
+    "education":"10th passout"
+}
+]
